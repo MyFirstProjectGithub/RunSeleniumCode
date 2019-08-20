@@ -1,2 +1,2 @@
-call java -jar "D:\down\selenium\MavenProject\target\MavenProject-jar-with-dependencies.jar"
+call java -jar "C:\git\RunSeleniumCode\target\MavenProject-jar-with-dependencies.jar"
 pause
